@@ -46,3 +46,7 @@ To extract the files in a .tar archive, we can use the -xf option.
 tar -xf <archive_name>.tar
 
 ```
+
+link to the lesson below
+
+https://www.codecademy.com/courses/introduction-to-linux-bash-scripting/lessons/linux-shell-utilities/exercises/compressing-tar-files
